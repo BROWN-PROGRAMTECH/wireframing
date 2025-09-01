@@ -25,3 +25,38 @@ Wireframing is a process of creating a simple visual template of an application 
   the placement of content. It is detailed oriented, ralistic and shows advanced interactivity. 
   It is used in the later stage of the design to prepare for the development after later changes validation, It is also used for client presentation and 
   for user testing.
+  On the provided link, the wireframe type there is the high-fidelity wireframe
+
+## Wireframes tools
+  Wireframe tools are important to create effectives and efficients wireframes. The most popular tools are:
+  ### Figma:
+    It is one of the more popular wireframing tools, it is practically used by more than 60% of the designer in the world. What make figma so popular and special are:
+    + Real-time collaboration
+    + components style
+    + Prototyping capability
+    + accessible everywhere
+  ### Sketch
+    A popular tool for macOS users, Sketch is known for its vector-based design capabilities and ease of use.
+    Key Features: Symbols for reusable elements, artboards for multiple screen sizes, and a strong plugin ecosystem.
+  ### Adobe XD
+    Overview: Part of the Adobe Creative Cloud, Adobe XD offers powerful design and prototyping features.
+    Key Features: Integration with other Adobe products, voice prototyping, and responsive resize functionality.
+    
+  # Benefits of Wireframing in Software Development
+  Wireframing plays a crucial role in the software development process. Here are some key benefits:
+
+  ##  Clarifies Requirements
+    Wireframes help stakeholders visualize the layout and functionality of the software, ensuring everyone has a shared understanding of the project requirements.
+    This clarity reduces the risk of misunderstandings and miscommunication.
+    
+ ## Enhances User Experience (UX)
+    By focusing on user flows and interactions early in the design process, wireframes allow designers to prioritize usability, leading to a more intuitive 
+    and user-friendly product.
+    
+ ## Facilitates Feedback
+    Wireframes provide a tangible representation of ideas, making it easier to gather feedback from stakeholders, users, and team members. 
+    This iterative feedback loop helps refine concepts before moving to more detailed designs.
+    
+ ## Saves Time and Costs
+    Identifying design flaws and usability issues in the wireframing stage prevents costly changes later in the development process. 
+    Quick iterations on wireframes save time compared to revising fully developed designs.
